@@ -41,7 +41,7 @@ Work with @[gfzum](https://github.com/gfzum) and @[Soupyf](https://github.com/So
 
 #### 0.0 状态流程图
 
-![image-20211222015952310](C:\Users\w4890\AppData\Roaming\Typora\typora-user-images\image-20211222015952310.png)
+![image-20211222015952310](img\image-20211222015952310.png)
 
 #### 0.1 整体功能描述
 
@@ -143,11 +143,11 @@ endmodule
 
 #### 0.2 RTL电路分析图
 
-![image-20211228003503293](C:\Users\w4890\AppData\Roaming\Typora\typora-user-images\image-20211228003503293.png)
+![image-20211228003503293](img\image-20211228003503293.png)
 
 #### 0.3 输入输出设备图
 
-![image-20211222204031049](C:\Users\w4890\AppData\Roaming\Typora\typora-user-images\image-20211222204031049.png)
+![image-20211222204031049](img\image-20211222204031049.png)
 
 端口规格将在各模块端口信息中进行介绍
 
@@ -198,7 +198,7 @@ module before_car_enter_display(
 );
 ```
 
-<img src="C:\Users\w4890\AppData\Roaming\Typora\typora-user-images\image-20211228003440316.png" alt="image-20211228003440316" style="zoom:80%;" />
+<img src="img\image-20211228003440316.png" alt="image-20211228003440316" style="zoom:80%;" />
 
 ### 2、停车模块 
 
@@ -249,7 +249,7 @@ module park_car_view (
 );
 ```
 
-<img src="C:\Users\w4890\AppData\Roaming\Typora\typora-user-images\image-20211228003628598.png" alt="image-20211228003628598" style="zoom:50%;" />
+<img src="img\image-20211228003628598.png" alt="image-20211228003628598" style="zoom:50%;" />
 
 ### 3、标识码验证模块
 
@@ -282,7 +282,7 @@ module park_num_check (
 );
 ```
 
-<img src="C:\Users\w4890\AppData\Roaming\Typora\typora-user-images\image-20211228003709448.png" alt="image-20211228003709448" style="zoom:50%;" />
+<img src="img\image-20211228003709448.png" alt="image-20211228003709448" style="zoom:50%;" />
 
 ### 4、支付模块
 
@@ -358,7 +358,7 @@ module pay (
 );
 ```
 
-<img src="C:\Users\w4890\AppData\Roaming\Typora\typora-user-images\image-20211228003952166.png" alt="image-20211228003952166" style="zoom: 50%;" />
+<img src="img\image-20211228003952166.png" alt="image-20211228003952166" style="zoom: 50%;" />
 
 ##### 4.2.2 display model
 
@@ -385,7 +385,7 @@ module pay_display (
 );
 ```
 
-<img src="C:\Users\w4890\AppData\Roaming\Typora\typora-user-images\image-20211228003833538.png" alt="image-20211228003833538" style="zoom:50%;" />
+<img src="img\image-20211228003833538.png" alt="image-20211228003833538" style="zoom:50%;" />
 
 ### 5、会员模块
 
@@ -451,7 +451,7 @@ module member_model(
 );
 ```
 
-<img src="C:\Users\w4890\AppData\Roaming\Typora\typora-user-images\image-20211228004033039.png" alt="image-20211228004033039" style="zoom: 50%;" />
+<img src="img\image-20211228004033039.png" alt="image-20211228004033039" style="zoom: 50%;" />
 
 ##### **5.2.2 display model**
 
@@ -495,7 +495,7 @@ module member_model_display(
 );
 ```
 
-<img src="C:\Users\w4890\AppData\Roaming\Typora\typora-user-images\image-20211228004102400.png" alt="image-20211228004102400" style="zoom:50%;" />
+<img src="img\image-20211228004102400.png" alt="image-20211228004102400" style="zoom:50%;" />
 
 ### 6、管理员模块
 
@@ -554,7 +554,7 @@ module administrator_model(
 );
 ```
 
-<img src="C:\Users\w4890\AppData\Roaming\Typora\typora-user-images\image-20211228004314493.png" alt="image-20211228004314493" style="zoom:50%;" />
+<img src="img\image-20211228004314493.png" alt="image-20211228004314493" style="zoom:50%;" />
 
 ##### 6.2.2 display model
 
@@ -602,7 +602,7 @@ module administrator_model(
     );
 ```
 
-<img src="C:\Users\w4890\AppData\Roaming\Typora\typora-user-images\image-20211228004124939.png" alt="image-20211228004124939" style="zoom: 50%;" />
+<img src="img\image-20211228004124939.png" alt="image-20211228004124939" style="zoom: 50%;" />
 
 ### 7、其他模块
 
@@ -619,7 +619,7 @@ module the_counter (
 );
 ```
 
-<img src="C:\Users\w4890\AppData\Roaming\Typora\typora-user-images\image-20211228004618156.png" alt="image-20211228004618156" style="zoom:50%;" />
+<img src="img\image-20211228004618156.png" alt="image-20211228004618156" style="zoom:50%;" />
 
 #### 7.2 背景音乐模块
 
@@ -634,7 +634,7 @@ module music_player(
 );
 ```
 
-<img src="C:\Users\w4890\AppData\Roaming\Typora\typora-user-images\image-20211228004642927.png" alt="image-20211228004642927" style="zoom:50%;" />
+<img src="img\image-20211228004642927.png" alt="image-20211228004642927" style="zoom:50%;" />
 
 ### 8、约束文件
 
