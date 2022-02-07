@@ -1,7 +1,7 @@
 # SUSTech_CS207_2021_fall_proj
  Get full marks(120/120).
 
-Work with @[gfzum](https://github.com/gfzum) and @
+Work with @[gfzum](https://github.com/gfzum) and @[Soupyf](https://github.com/Soupyf)
 
  ## 一、开发计划
 
@@ -11,11 +11,11 @@ Work with @[gfzum](https://github.com/gfzum) and @
 
 #### 2、成员分工
 
-- 林洁芳12011543：贡献占比34%，负责项目基础框架、滚动显示模块、会员模块、管理员模块等
+- Ljfanny：贡献占比34%，负责项目基础框架、滚动显示模块、会员模块、管理员模块等
 
-- 汤奕飞12011906：贡献占比33%，负责支付模块、其它模块协助等
+- Soupyf：贡献占比33%，负责支付模块、其它模块协助等
 
-- 吴笑丰12011411：贡献占比33%，负责停车模块、标识码验证模块、其它模块协助等
+- gfzum：贡献占比33%，负责停车模块、标识码验证模块、其它模块协助等
 
 #### 3、进度安排及执行记录
 
